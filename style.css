@@ -10,6 +10,12 @@ a:link {
     color: black;
      
     }
-    a:hover {
+a:hover {
   color: greenyellow;
+}
+
+.animal-image {
+  width: 240px;
+  height: 240px;
+  object-fit: cover;
 }
